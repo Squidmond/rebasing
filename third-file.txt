@@ -1,1 +1,3 @@
 First line of third-file.txt
+
+New line added in feature1
